@@ -1,0 +1,53 @@
+{
+    "questions":[
+        {
+            "id":"124rf",
+            "question":"First Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["50 m and 80 m","47.5 m and 77.5 m","30 m and 60 m","25 m and 55 m"]
+        },
+        {
+            "id":"124rf",
+            "question":"Second Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["47.5 m and 77.5 m","30 m and 60 m","25 m and 55 m","50 m and 80 m"]
+        },        {
+            "id":"124rf",
+            "question":"Third Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["30 m and 60 m","25 m and 55 m","50 m and 80 m","47.5 m and 77.5 m"]
+        },
+        {
+            "id":"124rf",
+            "question":"Fourth Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["25 m and 55 m","50 m and 80 m","47.5 m and 77.5 m","30 m and 60 m"]
+        },
+        {
+            "id":"124rf",
+            "question":"Fifth Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["50 m and 80 m","47.5 m and 77.5 m","30 m and 60 m","25 m and 55 m"]
+        },
+        {
+            "id":"124rf",
+            "question":"Sixth Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["47.5 m and 77.5 m","30 m and 60 m","25 m and 55 m","50 m and 80 m"]
+        },        
+        {
+            "id":"124rf",
+            "question":"Seventh Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["30 m and 60 m","25 m and 55 m","50 m and 80 m","47.5 m and 77.5 m"]
+        },
+        {
+            "id":"124rf",
+            "question":"Eighth Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["25 m and 55 m","50 m and 80 m","47.5 m and 77.5 m","30 m and 60 m"]
+        },
+        {
+            "id":"124rf",
+            "question":"Nineth Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["50 m and 80 m","47.5 m and 77.5 m","30 m and 60 m","25 m and 55 m"]
+        },
+        {
+            "id":"124rf",
+            "question":"Tenth Question Two bodies are thrown from the same point with the same of 50ms. If their angles of projection are complimentary to each other and the difference of maximum heights is 30m, the maximum heights are (g = 10m/s)",
+            "options":["47.5 m and 77.5 m","30 m and 60 m","25 m and 55 m","50 m and 80 m"]
+        }
+    ]
+}
